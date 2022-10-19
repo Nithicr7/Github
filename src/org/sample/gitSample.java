@@ -7,6 +7,7 @@ public class gitSample {
 		int age= 20;
 		System.out.println("age");
 		System.out.println("Done");
+		System.out.println("GIT");
 	}
 
 }
